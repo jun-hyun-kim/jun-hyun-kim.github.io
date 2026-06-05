@@ -130,7 +130,7 @@ sections:
               </div>
             </div>
             <a class="project-list-thumb" href="/project/external-project/" aria-label="LLM Compression: Enhancing AWQ project">
-              <img src="/project/external-project/extra_awq.jpg" alt="">
+              <img src="/project/external-project/featured.jpg" alt="">
             </a>
           </article>
         </div>
