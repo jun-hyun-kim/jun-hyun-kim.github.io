@@ -1,14 +1,24 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: 'LLM Compression: Enhancing AWQ'
+summary: Improved Activation-aware Weight Quantization with extra scaling for low-bit large language models.
 tags:
-  - Demo
-date: "2016-04-27T00:00:00Z"
+  - Machine Learning
+  - LLM Compression
+date: '2024-12-01T00:00:00Z'
 
-# Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: ''
+
+links:
+  - icon: github
+    icon_pack: fab
+    name: Code
+    url: https://github.com/jun-hyun-kim/ExtraAWQ
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: ''
   focal_point: Smart
 ---
+
+Graduation project focused on improving AWQ (Activation-aware Weight Quantization) with extra scaling.
+
+- Obtained lower perplexity for INT3-quantized OPT and Llama 2 models.
