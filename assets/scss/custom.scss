@@ -24,6 +24,17 @@
   line-height: 1.6;
 }
 
+#section-experience .experience .card-body > .d-flex > .mr-2 {
+  flex: 0 0 56px;
+}
+
+#section-experience .experience .card-body > .d-flex > .mr-2 img {
+  display: block;
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+}
+
 #featured .section-heading h1 {
   font-size: 2.35rem;
   line-height: 1.25;
@@ -140,6 +151,32 @@
   .project-list-thumb {
     width: 100%;
     max-width: 260px;
+    margin-right: auto;
+    margin-left: auto;
     order: -1;
+  }
+
+  #contact .col-12.col-lg-8 {
+    text-align: center;
+  }
+
+  #contact .fa-ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  #contact .fa-ul li {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #contact .fa-li {
+    position: static;
+    width: auto;
+    margin-right: 0.6rem;
   }
 }
