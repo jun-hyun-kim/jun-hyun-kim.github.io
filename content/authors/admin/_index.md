@@ -89,6 +89,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/junhyun-k
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=c1rWAPQAAAAJ
   - icon: cv
     icon_pack: ai
     link: uploads/Curriculum_Vitae.pdf
