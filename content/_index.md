@@ -100,9 +100,9 @@ sections:
               <p class="publication-summary">A demo-conditioned VLA framework that improves spatial grounding through visibility-aware prediction of future end-effector traces, evaluated on RoboCasa-DC and a real-world benchmark.</p>
               <p class="publication-authors">Jaehyeon Son, <strong>Junhyun Kim</strong>, Kyle Kam, Jeremiah Coholich, Seok Joon Kim, Jinhoo Kim, Chris Dongjoo Kim, Jaemin Cho, Dieter Fox, Zsolt Kira.</p>
               <div class="publication-links">
-                <a href="https://arxiv.org/pdf/2606.02745" target="_blank" rel="noopener">PDF</a>
-                <a href="/publication/arxiv-2606-02745/cite.bib">Cite</a>
+                <a href="https://jaehyeon-son.github.io/seetraceact/" target="_blank" rel="noopener">Project</a>
                 <a href="https://arxiv.org/abs/2606.02745v1" target="_blank" rel="noopener">arXiv</a>
+                <a href="/publication/arxiv-2606-02745/cite.bib">Cite</a>
               </div>
             </div>
             <a class="publication-thumb" href="/publication/arxiv-2606-02745/" aria-label="SeeTraceAct publication">

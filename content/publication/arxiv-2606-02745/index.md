@@ -24,9 +24,11 @@ tags:
   - Vision-Language-Action
 featured: true
 links:
+  - name: Project
+    url: https://jaehyeon-son.github.io/seetraceact/
   - name: arXiv
     url: https://arxiv.org/abs/2606.02745v1
-url_pdf: https://arxiv.org/pdf/2606.02745
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
