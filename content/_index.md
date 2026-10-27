@@ -96,6 +96,20 @@ sections:
         <div class="publication-list">
           <article class="publication-item">
             <div class="publication-main">
+              <h3><a href="/publication/arxiv-2609-33007/">CAPEX: Efficiently Distilling Foundation Model Behavior into Deployable Robot Policies through Experience-Adaptive Reasoning</a></h3>
+              <p class="publication-summary">An experience-conditioned demonstration collection framework that uses a multimodal foundation model as an autonomous demonstrator, yielding 4.3x more successful demonstrations at 80% lower cost per demonstration across RoboCasa, Franka, and bimanual YAM arms.</p>
+              <p class="publication-authors">Shivam Aarya, Zhang Xi-Jia, Chengyue Huang, <strong>Junhyun Kim</strong>, Huishu Xue, Hrishit Leen, Roman Yakunin, Animesh Garg, Zsolt Kira.</p>
+              <div class="publication-links">
+                <a href="https://arxiv.org/abs/2609.33007" target="_blank" rel="noopener">arXiv</a>
+                <a href="/publication/arxiv-2609-33007/cite.bib">Cite</a>
+              </div>
+            </div>
+            <a class="publication-thumb" href="/publication/arxiv-2609-33007/" aria-label="CAPEX publication">
+              <video src="/publication/arxiv-2609-33007/teaser_yam.mp4" poster="/publication/arxiv-2609-33007/teaser_yam.jpg" autoplay muted loop playsinline preload="metadata" aria-hidden="true"></video>
+            </a>
+          </article>
+          <article class="publication-item">
+            <div class="publication-main">
               <h3><a href="/publication/arxiv-2606-02745/">SeeTraceAct: Visibility-Aware Latent Planning from Cross-Embodiment Demonstration Videos</a></h3>
               <p class="publication-summary">A demo-conditioned VLA framework that improves spatial grounding through visibility-aware prediction of future end-effector traces, evaluated on RoboCasa-DC and a real-world benchmark.</p>
               <p class="publication-authors">Jaehyeon Son, <strong>Junhyun Kim</strong>, Kyle Kam, Jeremiah Coholich, Seok Joon Kim, Jinhoo Kim, Chris Dongjoo Kim, Jaemin Cho, Dieter Fox, Zsolt Kira.</p>
