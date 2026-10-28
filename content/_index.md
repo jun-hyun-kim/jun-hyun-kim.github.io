@@ -99,6 +99,7 @@ sections:
               <h3><a href="/publication/arxiv-2609-33007/">CAPEX: Efficiently Distilling Foundation Model Behavior into Deployable Robot Policies through Experience-Adaptive Reasoning</a></h3>
               <p class="publication-summary">An experience-conditioned demonstration collection framework that uses a multimodal foundation model as an autonomous demonstrator, yielding 4.3x more successful demonstrations at 80% lower cost per demonstration across RoboCasa, Franka, and bimanual YAM arms.</p>
               <p class="publication-authors">Shivam Aarya, Zhang Xi-Jia, Chengyue Huang, <strong>Junhyun Kim</strong>, Huishu Xue, Hrishit Leen, Roman Yakunin, Animesh Garg, Zsolt Kira.</p>
+              <p class="publication-venue"><em>arXiv preprint</em>, 2026</p>
               <div class="publication-links">
                 <a href="https://arxiv.org/abs/2609.33007" target="_blank" rel="noopener">arXiv</a>
                 <a href="/publication/arxiv-2609-33007/cite.bib">Cite</a>
@@ -113,6 +114,7 @@ sections:
               <h3><a href="/publication/arxiv-2606-02745/">SeeTraceAct: Visibility-Aware Latent Planning from Cross-Embodiment Demonstration Videos</a></h3>
               <p class="publication-summary">A demo-conditioned VLA framework that improves spatial grounding through visibility-aware prediction of future end-effector traces, evaluated on RoboCasa-DC and a real-world benchmark.</p>
               <p class="publication-authors">Jaehyeon Son, <strong>Junhyun Kim</strong>, Kyle Kam, Jeremiah Coholich, Seok Joon Kim, Jinhoo Kim, Chris Dongjoo Kim, Jaemin Cho, Dieter Fox, Zsolt Kira.</p>
+              <p class="publication-venue"><em>Conference on Robot Learning (CoRL)</em>, 2026</p>
               <div class="publication-links">
                 <a href="https://jaehyeon-son.github.io/seetraceact/" target="_blank" rel="noopener">Project</a>
                 <a href="https://arxiv.org/abs/2606.02745v1" target="_blank" rel="noopener">arXiv</a>

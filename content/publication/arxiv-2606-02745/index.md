@@ -14,9 +14,9 @@ authors:
 date: '2026-06-01T00:00:00Z'
 doi: ''
 publishDate: '2026-06-01T00:00:00Z'
-publication_types: ['article']
-publication: 'arXiv preprint arXiv:2606.02745'
-publication_short: 'arXiv:2606.02745'
+publication_types: ['paper-conference']
+publication: 'In *Conference on Robot Learning (CoRL)*'
+publication_short: 'In *CoRL 2026*'
 abstract: "Vision-language-action models are promising general-purpose robot policies, but adapting them to new tasks typically requires costly task-specific teleoperation data. SeeTraceAct is a demo-conditioned VLA framework that improves spatial grounding through visibility-aware prediction of future end-effector traces, and is evaluated on RoboCasa-DC and a real-world benchmark."
 summary: 'A demo-conditioned VLA framework for visibility-aware latent planning from cross-embodiment demonstration videos.'
 tags:
